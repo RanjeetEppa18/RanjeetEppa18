@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @RanjeetEppa18
-- 👀 I’m interested in VUE, MERN, MEAN, Browser Extension, React-Native
+- 👀 I’m interested in -
+  * VUE
+  * Browser Extension
+  * React-Native
+  * MERN
+  * MEAN
 - 🌱 I’m currently learning VUE 3
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me `ranjeeteppakayala@gmailcom`
 
 <!---
