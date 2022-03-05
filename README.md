@@ -2,11 +2,9 @@
 - 👀 I’m interested in -
   * VUE
   * Browser Extension
-  * React-Native
-  * MERN
-  * MEAN
+  * AI
 - 🌱 I’m currently learning VUE 3
-- 📫 How to reach me `ranjeeteppakayala@gmailcom`
+- 📫 How to reach me `ranjeeteppakayala@gmail.com`
 
 <!---
 RanjeetEppa18/RanjeetEppa18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
